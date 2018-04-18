@@ -1,0 +1,4 @@
+#Tue Apr 17 01:28:59 ICT 2018
+base.0=E\:\\work\\hce\\share\\hce_cordova\\cordova-hce-demo-master\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\work\\hce\\share\\hce_cordova\\cordova-hce-demo-master\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
