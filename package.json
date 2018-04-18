@@ -1,0 +1,13 @@
+{
+  "name": "com.example.hce",
+  "version": "0.0.1",
+  "displayName": "HCE Demo",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
